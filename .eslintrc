@@ -5,6 +5,7 @@
     "browser": true
   },
   "rules": {
+    "linebreak-style": 0,
     "comma-dangle": ["off"],
     "brace-style": ["error", "stroustrup"],
     "no-param-reassign": [
